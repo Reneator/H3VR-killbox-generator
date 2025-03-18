@@ -1,0 +1,368 @@
+{
+	"FileName": "TEST BOUNDARY",
+	"ReferencePath": "Vault\\SceneConfigs\\gp_hangar\\TEST BOUNDARY_gp_hangar_VFS.json",
+	"Creator": "Blubb",
+	"ModsUsed": [],
+	"Objects": [
+		{
+			"Index": 0,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "ShoothouseBarrierDoorSingle",
+					"Type": "object",
+					"PosOffset": {
+						"x": -3.1709513664245607,
+						"y": 0.00600123405456543,
+						"z": 1.0200273990631104
+					},
+					"OrientationForward": {
+						"x": -0.9999999403953552,
+						"y": 0.0,
+						"z": 1.7881393432617188e-7
+					},
+					"OrientationUp": {
+						"x": 0.0,
+						"y": 1.0,
+						"z": 0.0
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"True",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 1,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "ShoothouseBarrierWall",
+					"Type": "object",
+					"PosOffset": {
+						"x": -0.24880731105804444,
+						"y": -1.2665987014770509e-7,
+						"z": 1.1248160600662232
+					},
+					"OrientationForward": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 1.0
+					},
+					"OrientationUp": {
+						"x": 0.0,
+						"y": 1.0,
+						"z": 0.0
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"True",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 2,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "M1Carbine",
+					"Type": "firearm",
+					"PosOffset": {
+						"x": 11.993515014648438,
+						"y": 0.07928229868412018,
+						"z": -5.960822105407715
+					},
+					"OrientationForward": {
+						"x": 0.0006970571121200919,
+						"y": -0.15750056505203248,
+						"z": 0.9875186681747437
+					},
+					"OrientationUp": {
+						"x": 0.0020840270444750787,
+						"y": 0.9875169992446899,
+						"z": 0.15749883651733399
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged",
+							"HammerState",
+							"FireSelectorState"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False",
+							"Uncocked",
+							"0"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 3,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "AugA3",
+					"Type": "firearm",
+					"PosOffset": {
+						"x": -12.980027198791504,
+						"y": 0.10132375359535217,
+						"z": -5.978816509246826
+					},
+					"OrientationForward": {
+						"x": 0.00008751143468543887,
+						"y": 0.005555589683353901,
+						"z": 0.9999845623970032
+					},
+					"OrientationUp": {
+						"x": 0.0006219298229552805,
+						"y": 0.9999843835830689,
+						"z": -0.005555642768740654
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged",
+							"HammerState",
+							"FireSelectorState"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False",
+							"Uncocked",
+							"0"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 4,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "9x19mmCartridgeFMJ",
+					"Type": "object",
+					"PosOffset": {
+						"x": -10.02125072479248,
+						"y": 0.005280444398522377,
+						"z": 11.026613235473633
+					},
+					"OrientationForward": {
+						"x": 0.5284648537635803,
+						"y": 0.00017403066158294678,
+						"z": -0.8489553332328796
+					},
+					"OrientationUp": {
+						"x": 0.561736524105072,
+						"y": -0.7498583793640137,
+						"z": 0.349520742893219
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 5,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "KalishniLuger",
+					"Type": "firearm",
+					"PosOffset": {
+						"x": -12.990649223327637,
+						"y": 0.09086243808269501,
+						"z": 12.001087188720704
+					},
+					"OrientationForward": {
+						"x": 0.00276693026535213,
+						"y": -0.17454399168491364,
+						"z": 0.9846454858779907
+					},
+					"OrientationUp": {
+						"x": 0.0006353943608701229,
+						"y": 0.9846493601799011,
+						"z": 0.1745428889989853
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged",
+							"HammerState",
+							"SafetyState"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False",
+							"Uncocked",
+							"Off"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 6,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "M4Carbine",
+					"Type": "firearm",
+					"PosOffset": {
+						"x": 11.991156578063965,
+						"y": 0.08672835677862168,
+						"z": 12.009047508239746
+					},
+					"OrientationForward": {
+						"x": -0.0025177791249006988,
+						"y": -0.2370595932006836,
+						"z": 0.9714918732643127
+					},
+					"OrientationUp": {
+						"x": -0.003149906173348427,
+						"y": 0.9714919924736023,
+						"z": 0.23705145716667176
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged",
+							"HammerState",
+							"FireSelectorState"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False",
+							"Uncocked",
+							"0"
+						]
+					}
+				}
+			]
+		}
+	],
+	"QuickbeltLayoutName": ""
+}
