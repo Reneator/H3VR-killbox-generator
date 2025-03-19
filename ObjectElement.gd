@@ -40,16 +40,16 @@ var variables_to_json : Dictionary[String, String] = {
 	"GenericRotations": "GenericRotations",
 }
 
-func _init(json_dict : Dictionary):
-	for var_name : String in json_dict:
-		var json_value = json_dict.get(var_name)
+func _init(dict : Dictionary):
+	for var_name : String in dict:
+		var json_value = dict.get(var_name)
 		set(var_name, json_value)
 	
 	##TODO: Implement Flags functionality
 
 static func generateObjectElementsFromArray(json_array : Array) -> Array[ObjectElement]:
 	var object_elements : Array[ObjectElement] = []
-	for json_dict : Dictionary in json_array:
-		var object_element = ObjectElement.new(json_dict)
+	for dict : Dictionary in json_array:
+		var object_element = ObjectElement.new(dict)
 		object_elements.append(object_element)
 	return object_elements
