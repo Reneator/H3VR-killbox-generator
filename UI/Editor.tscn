@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://3oc0rl5as0fh"]
+
+[node name="Editor" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 0
+offset_left = 55.0
+offset_top = 81.0
+offset_right = 63.0
+offset_bottom = 89.0
+text = "Add Wall"
+
+[node name="Button2" type="Button" parent="."]
+layout_mode = 0
+offset_left = 60.0
+offset_top = 133.0
+offset_right = 119.0
+offset_bottom = 164.0
+text = "Export to Json"
