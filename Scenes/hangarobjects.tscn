@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://31h1m75t50ak"]
+
+[ext_resource type="Script" uid="uid://j0ca7kmfw0mw" path="res://hangarobjects.gd" id="1_4abgj"]
+
+[node name="Hangarobjects" type="Node2D"]
+script = ExtResource("1_4abgj")

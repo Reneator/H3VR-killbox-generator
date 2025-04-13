@@ -8,7 +8,7 @@ var InSlotOfRootObjectIndex : int = -1
 var InSlotOfElementIndex : int = -1
 var Elements : Array[ObjectElement]
 
-var variables_to_json : Dictionary[String, String] = {
+static var variables_to_json : Dictionary[String, String] = {
 	"Index": "Index",
 	"IsContainedIn": "IsContainedIn",
 	"QuickbeltSlotIndex": "QuickbeltSlotIndex",
@@ -16,12 +16,14 @@ var variables_to_json : Dictionary[String, String] = {
 	"InSlotOfElementIndex": "InSlotOfElementIndex"
 }
 
-func _init(json_object : Dictionary):
+static func generate_from_json(json_object : Dictionary):
+	var new_hangar_object = HangarObject.new()
 	for var_name in variables_to_json:
 		var json_value = json_object.get(var_name)
-		set(var_name, json_value)
+		new_hangar_object.set(var_name, json_value)
 	var elements = json_object.get("Elements")
-	Elements = ObjectElement.generateObjectElementsFromArray(elements)
+	new_hangar_object.Elements = ObjectElement.generateObjectElementsFromArray(elements)
+	return new_hangar_object
 
 func as_dict():
 	var dict = {}
@@ -35,7 +37,7 @@ func as_dict():
 static func generateHangarObjectsFromArray(json_objects : Array) -> Array[HangarObject]:
 	var array : Array[HangarObject] = []
 	for json_object : Dictionary in json_objects:
-		var hangar_object = HangarObject.new(json_object)
+		var hangar_object = HangarObject.generate_from_json(json_object)
 		array.append(hangar_object)
 	return array
 

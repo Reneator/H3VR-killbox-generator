@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://be3iddowajaow"]
+
+[ext_resource type="Script" uid="uid://bujc5hsmuyxxy" path="res://Entities/ObjectElement.gd" id="1_g6t10"]
+[ext_resource type="Script" uid="uid://b5e3qrmgyx830" path="res://Scenes/object_elements.gd" id="1_mk33l"]
+
+[node name="ObjectElements" type="Node2D"]
+script = ExtResource("1_mk33l")
+
+[node name="BarrierWall" type="Node2D" parent="."]
+script = ExtResource("1_g6t10")

@@ -26,7 +26,17 @@ func _init(dict : Dictionary):
 	Objects = HangarObject.generateHangarObjectsFromArray(objects)
 	#Objects = HangarObject.new(objects)
 	var properties = get_property_list()
+	var new_barrier_wall = create_barrier_wall(Vector3(12,1,-6),Vector3(0,1,0))
+	objects.append(new_barrier_wall)
 	pass
+
+func create_barrier_wall(position, orientation):
+	var barrier_wall_object = HangarObjects.create_new_object("BarrierWall")
+	var barrier_wall_element : ObjectElement = barrier_wall_object.Elements[0]
+	barrier_wall_element.PosOffset = position
+	barrier_wall_element.OrientationForward = orientation
+	return barrier_wall_object
+
 
 func as_dict():
 	var dict : Dictionary = {}

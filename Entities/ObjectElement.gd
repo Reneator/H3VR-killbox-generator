@@ -2,11 +2,15 @@ extends Node
 class_name ObjectElement
 
 var Index : int
+@export
 var ObjectID : String = "ShoothouseBarrierDoorSingle" ##the id fo the element with a full verbose id, like : "ShoothouseBarrierDoorSingle"
 var Type : String =  "object"
+@export
 var PosOffset : Vector3
+@export
 var OrientationForward : Vector3
-var OrientationUp : Vector3
+@export
+var OrientationUp : Vector3 = Vector3(0,1.0,0)
 var ObjectAttachedTo : int = -1
 var MountAttachedTo : int = -1
 var LoadedRoundsInChambers : Array = []
@@ -23,7 +27,7 @@ var Flags : Dictionary[String, String] = {
 "QuickBeltSpecialStateEngaged" : "False"
 						 }
 
-var variables_to_json : Dictionary[String, String] = {
+static var variables_to_json : Dictionary[String, String] = {
 	"Index": "Index",
 	"ObjectID": "ObjectID",
 	"Type": "Type",
@@ -39,20 +43,22 @@ var variables_to_json : Dictionary[String, String] = {
 	"Flags" : "Flags",
 }
 
-var vector3_variables_to_json : Dictionary[String, String] = {
+static var vector3_variables_to_json : Dictionary[String, String] = {
 	"PosOffset": "PosOffset",
 	"OrientationForward": "OrientationForward",
 	"OrientationUp": "OrientationUp",
 }
 
-func _init(dict : Dictionary):
+static func generate_from_json(dict : Dictionary):
+	var new_object_element = ObjectElement.new()
 	for var_name : String in dict:
 		var json_value = dict.get(var_name)
-		set(var_name, json_value)
-	
+		new_object_element.set(var_name, json_value)
 	for var_name : String in vector3_variables_to_json:
-		set(var_name, convert_json_vector3_to_vector3(dict.get(var_name)))
-
+		new_object_element.set(var_name, convert_json_vector3_to_vector3(dict.get(var_name)))
+	return new_object_element
+	
+	
 func as_dict():
 	var dict = {}
 	for var_name : String in variables_to_json:
@@ -68,7 +74,7 @@ func as_dict():
 static func generateObjectElementsFromArray(json_array : Array) -> Array[ObjectElement]:
 	var object_elements : Array[ObjectElement] = []
 	for dict : Dictionary in json_array:
-		var object_element = ObjectElement.new(dict)
+		var object_element = ObjectElement.generate_from_json(dict)
 		object_elements.append(object_element)
 	return object_elements
 
