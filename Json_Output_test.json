@@ -1,6 +1,6 @@
 {
-	"FileName": "TEST BOUNDARY",
-	"ReferencePath": "Vault\\SceneConfigs\\gp_hangar\\TEST BOUNDARY_gp_hangar_VFS.json",
+	"FileName": "Json_Output_test",
+	"ReferencePath": "Vault\\SceneConfigs\\gp_hangar\\Json_Output_test_gp_hangar_VFS.json",
 	"Creator": "Blubb",
 	"ModsUsed": [],
 	"Objects": [
@@ -307,7 +307,7 @@
 			"Elements": [
 				{
 					"Index": -1,
-					"ObjectID": "ShoothouseBarrierDoorSingle",
+					"ObjectID": "ShoothouseBarrierWall",
 					"Type": "object",
 					"ObjectAttachedTo": -1,
 					"MountAttachedTo": -1,
@@ -328,8 +328,8 @@
 						"z": -6.0
 					},
 					"OrientationForward": {
-						"x": 0.0,
-						"y": 1.0,
+						"x": 1.0,
+						"y": 0.0,
 						"z": 0.0
 					},
 					"OrientationUp": {

@@ -8,3 +8,4 @@ script = ExtResource("1_mk33l")
 
 [node name="BarrierWall" type="Node2D" parent="."]
 script = ExtResource("1_g6t10")
+ObjectID = "ShoothouseBarrierWall"
