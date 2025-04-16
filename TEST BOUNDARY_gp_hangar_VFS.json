@@ -1,1397 +1,1397 @@
 {
-    "FileName": "TEST BOUNDARY",
-    "ReferencePath": "Vault\\SceneConfigs\\gp_hangar\\TEST BOUNDARY_gp_hangar_VFS.json",
-    "Creator": "Salatbart",
-    "ModsUsed": [],
-    "Objects": [
-        {
-            "Index": 0,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 19.97252082824707,
-                        "y": 0.10084277391433716,
-                        "z": 3.006648302078247
-                    },
-                    "OrientationForward": {
-                        "x": 0.9865415692329407,
-                        "y": -0.00032248225761577487,
-                        "z": 0.16351066529750825
-                    },
-                    "OrientationUp": {
-                        "x": 0.00033062510192394257,
-                        "y": 0.9999999403953552,
-                        "z": -0.000022586609702557325
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 1,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleSugar",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 19.908790588378908,
-                        "y": 0.1829489916563034,
-                        "z": 3.149451971054077
-                    },
-                    "OrientationForward": {
-                        "x": 0.5506325364112854,
-                        "y": -0.0007966657285578549,
-                        "z": -0.8347476720809937
-                    },
-                    "OrientationUp": {
-                        "x": 0.0002454283239785582,
-                        "y": 0.9999996423721314,
-                        "z": -0.0007924847886897624
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 2,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleSugar",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 18.962512969970704,
-                        "y": 0.18293969333171845,
-                        "z": 3.1477200984954836
-                    },
-                    "OrientationForward": {
-                        "x": 0.20559713244438172,
-                        "y": -0.0001669134508119896,
-                        "z": 0.9786366820335388
-                    },
-                    "OrientationUp": {
-                        "x": -0.00007434951112372801,
-                        "y": 1.0,
-                        "z": 0.0001861768396338448
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 3,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleSugar",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 19.964570999145509,
-                        "y": 0.1840423345565796,
-                        "z": 0.7033525705337524
-                    },
-                    "OrientationForward": {
-                        "x": -0.09343820065259934,
-                        "y": -0.0003034612163901329,
-                        "z": 0.9956250190734863
-                    },
-                    "OrientationUp": {
-                        "x": 0.2235090434551239,
-                        "y": 0.9744696617126465,
-                        "z": 0.021273069083690645
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 4,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleSugar",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 18.91205596923828,
-                        "y": 0.18395742774009705,
-                        "z": 0.7100260257720947
-                    },
-                    "OrientationForward": {
-                        "x": -0.20705516636371613,
-                        "y": -0.001801475416868925,
-                        "z": 0.9783276319503784
-                    },
-                    "OrientationUp": {
-                        "x": -0.07869665324687958,
-                        "y": 0.9967884421348572,
-                        "z": -0.014820041134953499
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 5,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 19.972488403320314,
-                        "y": 0.10087231546640396,
-                        "z": -3.0005624294281008
-                    },
-                    "OrientationForward": {
-                        "x": 0.19687531888484956,
-                        "y": -0.0010061165085062385,
-                        "z": 0.9804280400276184
-                    },
-                    "OrientationUp": {
-                        "x": -0.0009517570142634213,
-                        "y": 0.9999988079071045,
-                        "z": 0.0012173181166872383
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 6,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 17.529348373413087,
-                        "y": 0.10085286945104599,
-                        "z": 3.0305700302124025
-                    },
-                    "OrientationForward": {
-                        "x": 0.8546359539031982,
-                        "y": -0.0018340419046580792,
-                        "z": -0.5192246437072754
-                    },
-                    "OrientationUp": {
-                        "x": 0.0011628232896327973,
-                        "y": 0.9999980330467224,
-                        "z": -0.0016182742547243834
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 7,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 17.4826602935791,
-                        "y": 0.10085001587867737,
-                        "z": -2.980243682861328
-                    },
-                    "OrientationForward": {
-                        "x": -0.8356322050094605,
-                        "y": -0.0018390270415693522,
-                        "z": 0.5492863059043884
-                    },
-                    "OrientationUp": {
-                        "x": -0.0011415921617299319,
-                        "y": 0.9999980330467224,
-                        "z": 0.0016113133169710637
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 8,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleSugar",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -16.774444580078126,
-                        "y": 0.10084135830402374,
-                        "z": 14.383726119995118
-                    },
-                    "OrientationForward": {
-                        "x": -0.8753470182418823,
-                        "y": -0.0009441153961233795,
-                        "z": 0.48349443078041079
-                    },
-                    "OrientationUp": {
-                        "x": -0.0006889685173518956,
-                        "y": 0.9999995231628418,
-                        "z": 0.0007053410517983139
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 9,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleSugar",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -16.77800750732422,
-                        "y": 0.10085823386907578,
-                        "z": 13.661319732666016
-                    },
-                    "OrientationForward": {
-                        "x": -0.7258449792861939,
-                        "y": -0.002031962852925062,
-                        "z": -0.6878553032875061
-                    },
-                    "OrientationUp": {
-                        "x": -0.0018803030252456666,
-                        "y": 0.9999977350234985,
-                        "z": -0.0009698983049020171
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 10,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -17.001834869384767,
-                        "y": 0.1008417159318924,
-                        "z": 14.972113609313965
-                    },
-                    "OrientationForward": {
-                        "x": -0.9900001287460327,
-                        "y": -0.000939756166189909,
-                        "z": -0.14106379449367524
-                    },
-                    "OrientationUp": {
-                        "x": -0.0009716063505038619,
-                        "y": 0.9999995231628418,
-                        "z": 0.00015691271983087063
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 11,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -19.968311309814454,
-                        "y": 0.1020597368478775,
-                        "z": 8.997766494750977
-                    },
-                    "OrientationForward": {
-                        "x": -0.7648282051086426,
-                        "y": 0.02073701284825802,
-                        "z": -0.6439006924629211
-                    },
-                    "OrientationUp": {
-                        "x": 0.05837281420826912,
-                        "y": 0.9976012110710144,
-                        "z": -0.037207454442977908
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 12,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -17.018808364868165,
-                        "y": 0.10085466504096985,
-                        "z": 9.002409934997559
-                    },
-                    "OrientationForward": {
-                        "x": 0.020077509805560113,
-                        "y": -0.0018243743106722832,
-                        "z": -0.9997969269752502
-                    },
-                    "OrientationUp": {
-                        "x": -0.0007404428324662149,
-                        "y": 0.9999980330467224,
-                        "z": -0.0018396107479929925
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 13,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleAmphetamade",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -19.984216690063478,
-                        "y": 0.10115859657526016,
-                        "z": -8.323287963867188
-                    },
-                    "OrientationForward": {
-                        "x": -0.06978961825370789,
-                        "y": 0.00006740225944668055,
-                        "z": 0.9975617527961731
-                    },
-                    "OrientationUp": {
-                        "x": 0.019526351243257524,
-                        "y": 0.9998084902763367,
-                        "z": 0.0012985131470486522
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 14,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleAmphetamade",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -19.991300582885743,
-                        "y": 0.10086741298437119,
-                        "z": -9.673852920532227
-                    },
-                    "OrientationForward": {
-                        "x": -0.9835436940193176,
-                        "y": -0.0005003612604923546,
-                        "z": 0.1806705743074417
-                    },
-                    "OrientationUp": {
-                        "x": -0.0002021642285399139,
-                        "y": 0.9999985694885254,
-                        "z": 0.0016689107287675143
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 15,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleAmphetamade",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 13.172530174255371,
-                        "y": 0.10083501785993576,
-                        "z": 15.011785507202149
-                    },
-                    "OrientationForward": {
-                        "x": 0.935064971446991,
-                        "y": 0.00006005174509482458,
-                        "z": -0.3544769287109375
-                    },
-                    "OrientationUp": {
-                        "x": -0.00006874605605844408,
-                        "y": 1.0,
-                        "z": -0.000011933860150747932
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 16,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleAmphetamade",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 11.827523231506348,
-                        "y": 0.10083137452602387,
-                        "z": 15.019754409790039
-                    },
-                    "OrientationForward": {
-                        "x": 0.6939735412597656,
-                        "y": -0.0010192572372034193,
-                        "z": 0.7199997305870056
-                    },
-                    "OrientationUp": {
-                        "x": 0.0006995121948421001,
-                        "y": 0.999999463558197,
-                        "z": 0.0007414082065224648
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 17,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 15.00476360321045,
-                        "y": 0.10085669159889221,
-                        "z": 14.972028732299805
-                    },
-                    "OrientationForward": {
-                        "x": 0.10478349775075913,
-                        "y": -0.001816310454159975,
-                        "z": 0.9944934248924255
-                    },
-                    "OrientationUp": {
-                        "x": 0.000963479105848819,
-                        "y": 0.9999980330467224,
-                        "z": 0.0017248482909053565
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 18,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleGutshot",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 14.996956825256348,
-                        "y": 0.10083305090665817,
-                        "z": -14.972511291503907
-                    },
-                    "OrientationForward": {
-                        "x": -0.9364397525787354,
-                        "y": -0.0005101149436086416,
-                        "z": -0.35082846879959109
-                    },
-                    "OrientationUp": {
-                        "x": -0.0006777502130717039,
-                        "y": 0.9999997019767761,
-                        "z": 0.000355037918779999
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 19,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleSugar",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 14.784445762634278,
-                        "y": 0.10084658861160279,
-                        "z": -13.639068603515625
-                    },
-                    "OrientationForward": {
-                        "x": 0.3558192551136017,
-                        "y": -0.001823726575821638,
-                        "z": -0.9345532655715942
-                    },
-                    "OrientationUp": {
-                        "x": -0.00007728365017101169,
-                        "y": 0.9999980330467224,
-                        "z": -0.0019808635115623476
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 20,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "GlassBeerBottleSugar",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": 14.789885520935059,
-                        "y": 0.10083102434873581,
-                        "z": -14.36728572845459
-                    },
-                    "OrientationForward": {
-                        "x": 0.38552194833755495,
-                        "y": -0.000942735408898443,
-                        "z": -0.9226984977722168
-                    },
-                    "OrientationUp": {
-                        "x": 0.00010813272092491388,
-                        "y": 0.9999995231628418,
-                        "z": -0.0009765353170223534
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 21,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "ShoothouseBarrierDoorSingle",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -3.1709513664245607,
-                        "y": 0.00600123405456543,
-                        "z": 1.0200273990631104
-                    },
-                    "OrientationForward": {
-                        "x": -0.9999999403953552,
-                        "y": 0.0,
-                        "z": 3.5762786865234377e-7
-                    },
-                    "OrientationUp": {
-                        "x": 0.0,
-                        "y": 1.0,
-                        "z": 0.0
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "True",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 22,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "ShoothouseBarrierWall",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -0.24880731105804444,
-                        "y": -1.2665987014770509e-7,
-                        "z": 1.1248160600662232
-                    },
-                    "OrientationForward": {
-                        "x": 0.7071068286895752,
-                        "y": 0.0,
-                        "z": 0.7071067094802856
-                    },
-                    "OrientationUp": {
-                        "x": 0.0,
-                        "y": 1.0,
-                        "z": 0.0
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "True",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 23,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "M1Carbine",
-                    "Type": "firearm",
-                    "PosOffset": {
-                        "x": 11.993546485900879,
-                        "y": 0.0792824774980545,
-                        "z": -5.96082067489624
-                    },
-                    "OrientationForward": {
-                        "x": 0.0006408160552382469,
-                        "y": -0.15750078856945039,
-                        "z": 0.9875186681747437
-                    },
-                    "OrientationUp": {
-                        "x": 0.002074530115351081,
-                        "y": 0.9875169396400452,
-                        "z": 0.15749917924404145
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged",
-                            "HammerState",
-                            "FireSelectorState"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False",
-                            "Uncocked",
-                            "0"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 24,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "AugA3",
-                    "Type": "firearm",
-                    "PosOffset": {
-                        "x": -12.980030059814454,
-                        "y": 0.1013244017958641,
-                        "z": -5.97881555557251
-                    },
-                    "OrientationForward": {
-                        "x": 0.00008100963168544695,
-                        "y": 0.0055621094070374969,
-                        "z": 0.9999845027923584
-                    },
-                    "OrientationUp": {
-                        "x": 0.00058706384152174,
-                        "y": 0.9999843835830689,
-                        "z": -0.005562155973166227
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged",
-                            "HammerState",
-                            "FireSelectorState"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False",
-                            "Uncocked",
-                            "0"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 25,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "9x19mmCartridgeFMJ",
-                    "Type": "object",
-                    "PosOffset": {
-                        "x": -10.891275405883789,
-                        "y": 0.005280233453959227,
-                        "z": 9.366812705993653
-                    },
-                    "OrientationForward": {
-                        "x": -0.10821210592985153,
-                        "y": 0.00017712637782096863,
-                        "z": -0.9941280484199524
-                    },
-                    "OrientationUp": {
-                        "x": -0.9910314083099365,
-                        "y": 0.07884616404771805,
-                        "z": 0.1078891009092331
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 26,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "KalishniLuger",
-                    "Type": "firearm",
-                    "PosOffset": {
-                        "x": -12.990645408630371,
-                        "y": 0.09086282551288605,
-                        "z": 12.001077651977539
-                    },
-                    "OrientationForward": {
-                        "x": 0.0027317169588059189,
-                        "y": -0.17454279959201814,
-                        "z": 0.9846457839012146
-                    },
-                    "OrientationUp": {
-                        "x": 0.0006336933001875877,
-                        "y": 0.9846495985984802,
-                        "z": 0.17454169690608979
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged",
-                            "HammerState",
-                            "SafetyState"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False",
-                            "Uncocked",
-                            "Off"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "Index": 27,
-            "IsContainedIn": -1,
-            "QuickbeltSlotIndex": -1,
-            "InSlotOfRootObjectIndex": -1,
-            "InSlotOfElementIndex": -1,
-            "Elements": [
-                {
-                    "Index": 0,
-                    "ObjectID": "M4Carbine",
-                    "Type": "firearm",
-                    "PosOffset": {
-                        "x": 11.991082191467286,
-                        "y": 0.08673015236854553,
-                        "z": 12.009063720703125
-                    },
-                    "OrientationForward": {
-                        "x": -0.0023772025015205147,
-                        "y": -0.23707354068756104,
-                        "z": 0.9714887738227844
-                    },
-                    "OrientationUp": {
-                        "x": -0.0032424796372652055,
-                        "y": 0.9714882373809815,
-                        "z": 0.23706546425819398
-                    },
-                    "ObjectAttachedTo": -1,
-                    "MountAttachedTo": -1,
-                    "LoadedRoundsInChambers": [],
-                    "LoadedRoundsInMag": [],
-                    "GenericInts": [],
-                    "GenericStrings": [],
-                    "GenericVector3s": [],
-                    "GenericRotations": [],
-                    "Flags": {
-                        "_keys": [
-                            "IsKinematicLocked",
-                            "IsPickupLocked",
-                            "QuickBeltSpecialStateEngaged",
-                            "HammerState",
-                            "FireSelectorState"
-                        ],
-                        "_values": [
-                            "False",
-                            "False",
-                            "False",
-                            "Uncocked",
-                            "0"
-                        ]
-                    }
-                }
-            ]
-        }
-    ],
-    "QuickbeltLayoutName": ""
+	"FileName": "TEST BOUNDARY",
+	"ReferencePath": "Vault\\SceneConfigs\\gp_hangar\\TEST BOUNDARY_gp_hangar_VFS.json",
+	"Creator": "Salatbart",
+	"ModsUsed": [],
+	"Objects": [
+		{
+			"Index": 0,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": 19.97252082824707,
+						"y": 0.10084277391433716,
+						"z": 3.006648302078247
+					},
+					"OrientationForward": {
+						"x": 0.9865415692329407,
+						"y": -0.00032248225761577487,
+						"z": 0.16351066529750825
+					},
+					"OrientationUp": {
+						"x": 0.00033062510192394257,
+						"y": 0.9999999403953552,
+						"z": -0.000022586609702557325
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 1,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleSugar",
+					"Type": "object",
+					"PosOffset": {
+						"x": 19.908790588378908,
+						"y": 0.1829489916563034,
+						"z": 3.149451971054077
+					},
+					"OrientationForward": {
+						"x": 0.5506325364112854,
+						"y": -0.0007966657285578549,
+						"z": -0.8347476720809937
+					},
+					"OrientationUp": {
+						"x": 0.0002454283239785582,
+						"y": 0.9999996423721314,
+						"z": -0.0007924847886897624
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 2,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleSugar",
+					"Type": "object",
+					"PosOffset": {
+						"x": 18.962512969970704,
+						"y": 0.18293969333171845,
+						"z": 3.1477200984954836
+					},
+					"OrientationForward": {
+						"x": 0.20559713244438172,
+						"y": -0.0001669134508119896,
+						"z": 0.9786366820335388
+					},
+					"OrientationUp": {
+						"x": -0.00007434951112372801,
+						"y": 1.0,
+						"z": 0.0001861768396338448
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 3,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleSugar",
+					"Type": "object",
+					"PosOffset": {
+						"x": 19.964570999145509,
+						"y": 0.1840423345565796,
+						"z": 0.7033525705337524
+					},
+					"OrientationForward": {
+						"x": -0.09343820065259934,
+						"y": -0.0003034612163901329,
+						"z": 0.9956250190734863
+					},
+					"OrientationUp": {
+						"x": 0.2235090434551239,
+						"y": 0.9744696617126465,
+						"z": 0.021273069083690645
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 4,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleSugar",
+					"Type": "object",
+					"PosOffset": {
+						"x": 18.91205596923828,
+						"y": 0.18395742774009705,
+						"z": 0.7100260257720947
+					},
+					"OrientationForward": {
+						"x": -0.20705516636371613,
+						"y": -0.001801475416868925,
+						"z": 0.9783276319503784
+					},
+					"OrientationUp": {
+						"x": -0.07869665324687958,
+						"y": 0.9967884421348572,
+						"z": -0.014820041134953499
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 5,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": 19.972488403320314,
+						"y": 0.10087231546640396,
+						"z": -3.0005624294281008
+					},
+					"OrientationForward": {
+						"x": 0.19687531888484956,
+						"y": -0.0010061165085062385,
+						"z": 0.9804280400276184
+					},
+					"OrientationUp": {
+						"x": -0.0009517570142634213,
+						"y": 0.9999988079071045,
+						"z": 0.0012173181166872383
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 6,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": 17.529348373413087,
+						"y": 0.10085286945104599,
+						"z": 3.0305700302124025
+					},
+					"OrientationForward": {
+						"x": 0.8546359539031982,
+						"y": -0.0018340419046580792,
+						"z": -0.5192246437072754
+					},
+					"OrientationUp": {
+						"x": 0.0011628232896327973,
+						"y": 0.9999980330467224,
+						"z": -0.0016182742547243834
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 7,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": 17.4826602935791,
+						"y": 0.10085001587867737,
+						"z": -2.980243682861328
+					},
+					"OrientationForward": {
+						"x": -0.8356322050094605,
+						"y": -0.0018390270415693522,
+						"z": 0.5492863059043884
+					},
+					"OrientationUp": {
+						"x": -0.0011415921617299319,
+						"y": 0.9999980330467224,
+						"z": 0.0016113133169710637
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 8,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleSugar",
+					"Type": "object",
+					"PosOffset": {
+						"x": -16.774444580078126,
+						"y": 0.10084135830402374,
+						"z": 14.383726119995118
+					},
+					"OrientationForward": {
+						"x": -0.8753470182418823,
+						"y": -0.0009441153961233795,
+						"z": 0.48349443078041079
+					},
+					"OrientationUp": {
+						"x": -0.0006889685173518956,
+						"y": 0.9999995231628418,
+						"z": 0.0007053410517983139
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 9,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleSugar",
+					"Type": "object",
+					"PosOffset": {
+						"x": -16.77800750732422,
+						"y": 0.10085823386907578,
+						"z": 13.661319732666016
+					},
+					"OrientationForward": {
+						"x": -0.7258449792861939,
+						"y": -0.002031962852925062,
+						"z": -0.6878553032875061
+					},
+					"OrientationUp": {
+						"x": -0.0018803030252456666,
+						"y": 0.9999977350234985,
+						"z": -0.0009698983049020171
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 10,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": -17.001834869384767,
+						"y": 0.1008417159318924,
+						"z": 14.972113609313965
+					},
+					"OrientationForward": {
+						"x": -0.9900001287460327,
+						"y": -0.000939756166189909,
+						"z": -0.14106379449367524
+					},
+					"OrientationUp": {
+						"x": -0.0009716063505038619,
+						"y": 0.9999995231628418,
+						"z": 0.00015691271983087063
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 11,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": -19.968311309814454,
+						"y": 0.1020597368478775,
+						"z": 8.997766494750977
+					},
+					"OrientationForward": {
+						"x": -0.7648282051086426,
+						"y": 0.02073701284825802,
+						"z": -0.6439006924629211
+					},
+					"OrientationUp": {
+						"x": 0.05837281420826912,
+						"y": 0.9976012110710144,
+						"z": -0.037207454442977908
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 12,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": -17.018808364868165,
+						"y": 0.10085466504096985,
+						"z": 9.002409934997559
+					},
+					"OrientationForward": {
+						"x": 0.020077509805560113,
+						"y": -0.0018243743106722832,
+						"z": -0.9997969269752502
+					},
+					"OrientationUp": {
+						"x": -0.0007404428324662149,
+						"y": 0.9999980330467224,
+						"z": -0.0018396107479929925
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 13,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleAmphetamade",
+					"Type": "object",
+					"PosOffset": {
+						"x": -19.984216690063478,
+						"y": 0.10115859657526016,
+						"z": -8.323287963867188
+					},
+					"OrientationForward": {
+						"x": -0.06978961825370789,
+						"y": 0.00006740225944668055,
+						"z": 0.9975617527961731
+					},
+					"OrientationUp": {
+						"x": 0.019526351243257524,
+						"y": 0.9998084902763367,
+						"z": 0.0012985131470486522
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 14,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleAmphetamade",
+					"Type": "object",
+					"PosOffset": {
+						"x": -19.991300582885743,
+						"y": 0.10086741298437119,
+						"z": -9.673852920532227
+					},
+					"OrientationForward": {
+						"x": -0.9835436940193176,
+						"y": -0.0005003612604923546,
+						"z": 0.1806705743074417
+					},
+					"OrientationUp": {
+						"x": -0.0002021642285399139,
+						"y": 0.9999985694885254,
+						"z": 0.0016689107287675143
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 15,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleAmphetamade",
+					"Type": "object",
+					"PosOffset": {
+						"x": 13.172530174255371,
+						"y": 0.10083501785993576,
+						"z": 15.011785507202149
+					},
+					"OrientationForward": {
+						"x": 0.935064971446991,
+						"y": 0.00006005174509482458,
+						"z": -0.3544769287109375
+					},
+					"OrientationUp": {
+						"x": -0.00006874605605844408,
+						"y": 1.0,
+						"z": -0.000011933860150747932
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 16,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleAmphetamade",
+					"Type": "object",
+					"PosOffset": {
+						"x": 11.827523231506348,
+						"y": 0.10083137452602387,
+						"z": 15.019754409790039
+					},
+					"OrientationForward": {
+						"x": 0.6939735412597656,
+						"y": -0.0010192572372034193,
+						"z": 0.7199997305870056
+					},
+					"OrientationUp": {
+						"x": 0.0006995121948421001,
+						"y": 0.999999463558197,
+						"z": 0.0007414082065224648
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 17,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": 15.00476360321045,
+						"y": 0.10085669159889221,
+						"z": 14.972028732299805
+					},
+					"OrientationForward": {
+						"x": 0.10478349775075913,
+						"y": -0.001816310454159975,
+						"z": 0.9944934248924255
+					},
+					"OrientationUp": {
+						"x": 0.000963479105848819,
+						"y": 0.9999980330467224,
+						"z": 0.0017248482909053565
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 18,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleGutshot",
+					"Type": "object",
+					"PosOffset": {
+						"x": 14.996956825256348,
+						"y": 0.10083305090665817,
+						"z": -14.972511291503907
+					},
+					"OrientationForward": {
+						"x": -0.9364397525787354,
+						"y": -0.0005101149436086416,
+						"z": -0.35082846879959109
+					},
+					"OrientationUp": {
+						"x": -0.0006777502130717039,
+						"y": 0.9999997019767761,
+						"z": 0.000355037918779999
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 19,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleSugar",
+					"Type": "object",
+					"PosOffset": {
+						"x": 14.784445762634278,
+						"y": 0.10084658861160279,
+						"z": -13.639068603515625
+					},
+					"OrientationForward": {
+						"x": 0.3558192551136017,
+						"y": -0.001823726575821638,
+						"z": -0.9345532655715942
+					},
+					"OrientationUp": {
+						"x": -0.00007728365017101169,
+						"y": 0.9999980330467224,
+						"z": -0.0019808635115623476
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 20,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "GlassBeerBottleSugar",
+					"Type": "object",
+					"PosOffset": {
+						"x": 14.789885520935059,
+						"y": 0.10083102434873581,
+						"z": -14.36728572845459
+					},
+					"OrientationForward": {
+						"x": 0.38552194833755495,
+						"y": -0.000942735408898443,
+						"z": -0.9226984977722168
+					},
+					"OrientationUp": {
+						"x": 0.00010813272092491388,
+						"y": 0.9999995231628418,
+						"z": -0.0009765353170223534
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 21,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "ShoothouseBarrierDoorSingle",
+					"Type": "object",
+					"PosOffset": {
+						"x": -3.1709513664245607,
+						"y": 0.00600123405456543,
+						"z": 1.0200273990631104
+					},
+					"OrientationForward": {
+						"x": -0.9999999403953552,
+						"y": 0.0,
+						"z": 3.5762786865234377e-7
+					},
+					"OrientationUp": {
+						"x": 0.0,
+						"y": 1.0,
+						"z": 0.0
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"True",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 22,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "ShoothouseBarrierWall",
+					"Type": "object",
+					"PosOffset": {
+						"x": -0.24880731105804444,
+						"y": -1.2665987014770509e-7,
+						"z": 1.1248160600662232
+					},
+					"OrientationForward": {
+						"x": 0.7071068286895752,
+						"y": 0.0,
+						"z": 0.7071067094802856
+					},
+					"OrientationUp": {
+						"x": 0.0,
+						"y": 1.0,
+						"z": 0.0
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"True",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 23,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "M1Carbine",
+					"Type": "firearm",
+					"PosOffset": {
+						"x": 11.993546485900879,
+						"y": 0.0792824774980545,
+						"z": -5.96082067489624
+					},
+					"OrientationForward": {
+						"x": 0.0006408160552382469,
+						"y": -0.15750078856945039,
+						"z": 0.9875186681747437
+					},
+					"OrientationUp": {
+						"x": 0.002074530115351081,
+						"y": 0.9875169396400452,
+						"z": 0.15749917924404145
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged",
+							"HammerState",
+							"FireSelectorState"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False",
+							"Uncocked",
+							"0"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 24,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "AugA3",
+					"Type": "firearm",
+					"PosOffset": {
+						"x": -12.980030059814454,
+						"y": 0.1013244017958641,
+						"z": -5.97881555557251
+					},
+					"OrientationForward": {
+						"x": 0.00008100963168544695,
+						"y": 0.0055621094070374969,
+						"z": 0.9999845027923584
+					},
+					"OrientationUp": {
+						"x": 0.00058706384152174,
+						"y": 0.9999843835830689,
+						"z": -0.005562155973166227
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged",
+							"HammerState",
+							"FireSelectorState"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False",
+							"Uncocked",
+							"0"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 25,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "9x19mmCartridgeFMJ",
+					"Type": "object",
+					"PosOffset": {
+						"x": -10.891275405883789,
+						"y": 0.005280233453959227,
+						"z": 9.366812705993653
+					},
+					"OrientationForward": {
+						"x": -0.10821210592985153,
+						"y": 0.00017712637782096863,
+						"z": -0.9941280484199524
+					},
+					"OrientationUp": {
+						"x": -0.9910314083099365,
+						"y": 0.07884616404771805,
+						"z": 0.1078891009092331
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 26,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "KalishniLuger",
+					"Type": "firearm",
+					"PosOffset": {
+						"x": -12.990645408630371,
+						"y": 0.09086282551288605,
+						"z": 12.001077651977539
+					},
+					"OrientationForward": {
+						"x": 0.0027317169588059189,
+						"y": -0.17454279959201814,
+						"z": 0.9846457839012146
+					},
+					"OrientationUp": {
+						"x": 0.0006336933001875877,
+						"y": 0.9846495985984802,
+						"z": 0.17454169690608979
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged",
+							"HammerState",
+							"SafetyState"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False",
+							"Uncocked",
+							"Off"
+						]
+					}
+				}
+			]
+		},
+		{
+			"Index": 27,
+			"IsContainedIn": -1,
+			"QuickbeltSlotIndex": -1,
+			"InSlotOfRootObjectIndex": -1,
+			"InSlotOfElementIndex": -1,
+			"Elements": [
+				{
+					"Index": 0,
+					"ObjectID": "M4Carbine",
+					"Type": "firearm",
+					"PosOffset": {
+						"x": 11.991082191467286,
+						"y": 0.08673015236854553,
+						"z": 12.009063720703125
+					},
+					"OrientationForward": {
+						"x": -0.0023772025015205147,
+						"y": -0.23707354068756104,
+						"z": 0.9714887738227844
+					},
+					"OrientationUp": {
+						"x": -0.0032424796372652055,
+						"y": 0.9714882373809815,
+						"z": 0.23706546425819398
+					},
+					"ObjectAttachedTo": -1,
+					"MountAttachedTo": -1,
+					"LoadedRoundsInChambers": [],
+					"LoadedRoundsInMag": [],
+					"GenericInts": [],
+					"GenericStrings": [],
+					"GenericVector3s": [],
+					"GenericRotations": [],
+					"Flags": {
+						"_keys": [
+							"IsKinematicLocked",
+							"IsPickupLocked",
+							"QuickBeltSpecialStateEngaged",
+							"HammerState",
+							"FireSelectorState"
+						],
+						"_values": [
+							"False",
+							"False",
+							"False",
+							"Uncocked",
+							"0"
+						]
+					}
+				}
+			]
+		}
+	],
+	"QuickbeltLayoutName": ""
 }

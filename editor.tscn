@@ -1,7 +1,13 @@
-[gd_scene load_steps=2 format=3 uid="uid://irc5lvj3u37l"]
+[gd_scene load_steps=5 format=3 uid="uid://irc5lvj3u37l"]
+
+[ext_resource type="PackedScene" uid="uid://b4lbdqfl1pqx3" path="res://editor_barrier_wall.tscn" id="1_wlowb"]
+[ext_resource type="PackedScene" uid="uid://l56b0si3kul3" path="res://editor_barrier_door.tscn" id="2_vjobr"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_qdoku"]
 size = Vector2(25, 18)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wlowb"]
+size = Vector2(3, 6)
 
 [node name="Editor" type="Node2D"]
 
@@ -24,5 +30,69 @@ position = Vector2(-13, 12)
 position = Vector2(12, 12)
 
 [node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(-0.5, 3)
-zoom = Vector2(20, 20)
+zoom = Vector2(25, 20)
+
+[node name="DoorCorner" type="Node2D" parent="."]
+position = Vector2(-20, -8)
+
+[node name="DoorCorner2" type="Node2D" parent="."]
+position = Vector2(-20, -9.5)
+
+[node name="DoorCorner3" type="Node2D" parent="."]
+position = Vector2(13.2, 15)
+
+[node name="DoorCorner4" type="Node2D" parent="."]
+position = Vector2(11.8, 15)
+
+[node name="Spawn" type="Node2D" parent="."]
+position = Vector2(-24, -9)
+
+[node name="PodiumBoundary" type="Node2D" parent="."]
+position = Vector2(20, 3)
+
+[node name="PodiumBoundary2" type="Node2D" parent="."]
+position = Vector2(20, -3)
+
+[node name="PodiumBoundary3" type="Node2D" parent="."]
+position = Vector2(17.5, 3)
+
+[node name="PodiumBoundary4" type="Node2D" parent="."]
+position = Vector2(17.5, -3)
+
+[node name="PodiumBoundary5" type="Node2D" parent="."]
+position = Vector2(-17, 15)
+
+[node name="PodiumBoundary10" type="Node2D" parent="."]
+position = Vector2(-20, 15)
+
+[node name="PodiumBoundary6" type="Node2D" parent="."]
+position = Vector2(-20, 9)
+
+[node name="PodiumBoundary7" type="Node2D" parent="."]
+position = Vector2(-17, 9)
+
+[node name="PodiumBoundary8" type="Node2D" parent="."]
+position = Vector2(15, 14)
+
+[node name="PodiumBoundary9" type="Node2D" parent="."]
+position = Vector2(15, -15)
+
+[node name="HighPodium" type="Area2D" parent="."]
+position = Vector2(-18.5, 12)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="HighPodium"]
+shape = SubResource("RectangleShape2D_wlowb")
+
+[node name="WidePodium" type="Area2D" parent="."]
+position = Vector2(20.1327, 6.45368)
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="WidePodium"]
+polygon = PackedVector2Array(-5.13272, 7.54632, -5.13272, -21.4537, -0.132721, -21.4537, -0.132721, -9.45368, -2.13272, -9.45368, -2.13272, -9.45368, -2.13272, -3.45368, -0.132721, -3.45368, -0.132721, 7.54632)
+
+[node name="EditorBarrierWall" parent="." instance=ExtResource("1_wlowb")]
+position = Vector2(-0.249, 1.125)
+rotation = 0.785398
+
+[node name="EditorBarrierDoor" parent="." instance=ExtResource("2_vjobr")]
+position = Vector2(-3.171, 1.02)
+rotation = 4.71239
