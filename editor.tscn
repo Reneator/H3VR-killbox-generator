@@ -1,0 +1,28 @@
+[gd_scene load_steps=2 format=3 uid="uid://irc5lvj3u37l"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qdoku"]
+size = Vector2(25, 18)
+
+[node name="Editor" type="Node2D"]
+
+[node name="KillhouseArea" type="Area2D" parent="."]
+position = Vector2(-0.5, 3)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="KillhouseArea"]
+shape = SubResource("RectangleShape2D_qdoku")
+
+[node name="M1Carbine" type="Node2D" parent="."]
+position = Vector2(12, -6)
+
+[node name="Aug3" type="Node2D" parent="."]
+position = Vector2(-13, -6)
+
+[node name="KalishniLuger" type="Node2D" parent="."]
+position = Vector2(-13, 12)
+
+[node name="M4" type="Node2D" parent="."]
+position = Vector2(12, 12)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(-0.5, 3)
+zoom = Vector2(20, 20)
