@@ -1,4 +1,7 @@
-[gd_scene format=3 uid="uid://3oc0rl5as0fh"]
+[gd_scene load_steps=3 format=3 uid="uid://3oc0rl5as0fh"]
+
+[ext_resource type="Script" uid="uid://c4wwi0oacfsrb" path="res://UI/editor.gd" id="1_3wah1"]
+[ext_resource type="PackedScene" uid="uid://decj8g785fytn" path="res://UI/wall.tscn" id="2_eejji"]
 
 [node name="Editor" type="Control"]
 layout_mode = 3
@@ -7,8 +10,10 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+script = ExtResource("1_3wah1")
+wall_scene = ExtResource("2_eejji")
 
-[node name="Button" type="Button" parent="."]
+[node name="AddWallButton" type="Button" parent="."]
 layout_mode = 0
 offset_left = 55.0
 offset_top = 81.0
@@ -16,10 +21,13 @@ offset_right = 63.0
 offset_bottom = 89.0
 text = "Add Wall"
 
-[node name="Button2" type="Button" parent="."]
+[node name="ExportAsJsonButton" type="Button" parent="."]
 layout_mode = 0
 offset_left = 60.0
 offset_top = 133.0
 offset_right = 119.0
 offset_bottom = 164.0
 text = "Export to Json"
+
+[connection signal="pressed" from="AddWallButton" to="." method="_on_add_wall_button_pressed"]
+[connection signal="pressed" from="ExportAsJsonButton" to="." method="_on_export_as_json_button_pressed"]

@@ -1,0 +1,29 @@
+[gd_scene load_steps=3 format=3 uid="uid://decj8g785fytn"]
+
+[ext_resource type="Script" uid="uid://ia2e7pvd0dlg" path="res://UI/wall.gd" id="1_1sntb"]
+[ext_resource type="Texture2D" uid="uid://bky0ldbovl3i7" path="res://icon.svg" id="1_8hcy0"]
+
+[node name="Wall" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 128.0
+offset_bottom = 128.0
+script = ExtResource("1_1sntb")
+
+[node name="Rotation_Circle" type="TextureRect" parent="."]
+self_modulate = Color(1, 1, 1, 0.45098)
+layout_mode = 0
+offset_left = -39.0
+offset_top = -39.0
+offset_right = 167.0
+offset_bottom = 167.0
+mouse_default_cursor_shape = 6
+texture = ExtResource("1_8hcy0")
+
+[node name="Object_Texture" type="TextureRect" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("1_8hcy0")
+
+[connection signal="gui_input" from="." to="." method="_on_gui_input"]
